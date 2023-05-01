@@ -1,0 +1,29 @@
+.imageheader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.toptext {
+  font-size: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: rgb(99, 15, 195);
+  font-family: "Montserrat", sans-serif;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
