@@ -3,42 +3,58 @@
     {
       "id": 1,
       "sem": "First Semester",
-      "sub": "Basic Electrical Engineering, Chemistry, Communication Technique, Engineering Mathematics I, Programming in C,Mechanical Workshop"
+      "sub": "Basic Electrical Engineering, Chemistry, Communication Technique, Engineering Mathematics I, Programming in C,Mechanical Workshop",
+      "subjects": ["Basic Electrical Engineering", "Chemistry", "Communication Technique", "Engineering Mathematics I", "Programming in C","Mechanical Workshop"]
+
     },
     {
       "id": 2,
       "sem": "Second Semester",
-      "sub": "Applied Mechanics I, Engineering Drawing, Engineering Mathematics II, Object Oriented Programming in C ++, Physics, Thermal Science"
+      "sub": "Applied Mechanics I, Engineering Drawing, Engineering Mathematics II, Object Oriented Programming in C ++, Physics, Thermal Science",
+      "subjects": ["Applied Mechanics I", "Engineering Drawing", "Engineering Mathematics II", "Object Oriented Programming in C ++", "Physics, Thermal Science"]
+
     },
     {
       "id": 3,
       "sem": "Third Semester",
-      "sub": "Engineering Mathematics III, Data Structure and Algorithms, Electrical Engineering Materials, Electronics Devices and Circuit, Logic Circuit, Network Theory"
+      "sub": "Engineering Mathematics III, Data Structure and Algorithms, Electrical Engineering Materials, Electronics Devices and Circuit, Logic Circuit, Network Theory",
+      "subjects": ["Engineering Mathematics III", "Data Structure and Algorithms", "Electrical Engineering Materials", "Electronics Devices and Circuit", "Logic Circuit, Network Theory"]
+
     },
     {
       "id": 4,
       "sem": "Fourth Semester",
-      "sub": "Database Management Systems, Engineering Mathematics IV, Instrumentation, Microprocessor, Project I, Programming Technology"
+      "sub": "Database Management Systems, Engineering Mathematics IV, Instrumentation, Microprocessor, Project I, Programming Technology",
+      "subjects": ["Database Management Systems", "Engineering Mathematics IV", "Instrumentation", "Microprocessor", "Project I", "Programming Technology"]
+
     },
     {
       "id": 5,
       "sem": "Fifth Semester",
-      "sub": "Advanced Computer Architecture, Computer Graphics, Distributed Operating System, Numerical Methods, Probability and Statistics, Theory of Computation"
+      "sub": "Advanced Computer Architecture, Computer Graphics, Distributed Operating System, Numerical Methods, Probability and Statistics, Theory of Computation",
+      "subjects":[ "Advanced Computer Architecture", "Computer Graphics", "Distributed Operating System", "Numerical Methods", "Probability and Statistics", "Theory of Computation"]
+
     },
     {
       "id": 6,
       "sem": "Sixth Semester",
-      "sub": "Data Communication, Elective-I, Embedded Systems, Object Oriented Software Engineering, Project II, Simulation and Modelling"
+      "sub": "Data Communication, Elective-I, Embedded Systems, Object Oriented Software Engineering, Project II, Simulation and Modelling",
+      "subjects": ["Data Communication, Elective-I", "Embedded Systems", "Object Oriented Software Engineering", "Project II", "Simulation and Modelling"]
+
     },
     {
       "id": 7,
       "sem": "Seventh Semester",
-      "sub": "Artificial Intelligence, Computer Network, Elective II, Engineering Economics, ICT Project Management, Image Processing and Pattern Recognition"
+      "sub": "Artificial Intelligence, Computer Network, Elective II, Engineering Economics, ICT Project Management, Image Processing and Pattern Recognition",
+      "subjects":[ "Artificial Intelligence", "Computer Network", "Elective II", "Engineering Economics", "ICT Project Management", "Image Processing and Pattern Recognition"]
+
     },
     {
       "id": 8,
       "sem": "Seventh Semester",
-      "sub": "Social & Professional Issues in IT, Project III, Organization and Management, Information Systems, Elective III, Digital Signal Analysis and Processing"
+      "sub": "Social & Professional Issues in IT, Project III, Organization and Management, Information Systems, Elective III, Digital Signal Analysis and Processing",
+      "subjects": ["Social & Professional Issues in IT", "Project III", "Organization and Management", "Information Systems", "Elective III", "Digital Signal Analysis and Processing"]
+
     }
   ]
 }
