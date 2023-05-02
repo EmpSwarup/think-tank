@@ -74,6 +74,7 @@ const HomeContainer = () => {
       <div className="ag-format-container animate__animated animate__fadeIn animate__delay-1s">
         <div className="ag-courses_box">
 <<<<<<< HEAD
+<<<<<<< HEAD
           {
 
             subjects.map((item) => {
@@ -96,6 +97,8 @@ const HomeContainer = () => {
 
           }
 =======
+=======
+>>>>>>> 22355c9f9912b851d9011d9b54f0b68639a6470f
           {data.semesters.map((item) => {
             return (
               <div key={item.id} className="ag-courses_item">
@@ -110,6 +113,9 @@ const HomeContainer = () => {
               </div>
             );
           })}
+<<<<<<< HEAD
+>>>>>>> 22355c9f9912b851d9011d9b54f0b68639a6470f
+=======
 >>>>>>> 22355c9f9912b851d9011d9b54f0b68639a6470f
         </div>
       </div>
